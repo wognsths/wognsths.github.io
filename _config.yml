@@ -20,7 +20,7 @@
 
 title: ManfromEarth
 email: 2021122006@yonsei.ac.kr
-description: >- # this means to ignore newlines until "baseurl:"
+description: | # this means to ignore newlines until "baseurl:"
   열정 빼면 시체
   통계, 수학, AI, 인프라를 다루는 블로그입니다.
 baseurl: "" # the subpath of your site, e.g. /blog
